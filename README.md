@@ -4,40 +4,41 @@
   Building reliable software, solving complex problems, and making systems faster and more scalable.
 </p>
 
-
-⸻
-
-
-👩‍💻 About Me
+## 👩‍💻 About Me
 I’m a Software Engineer with a background in backend development and a strong focus on building scalable and maintainable software.
-• 💻 Mainly working with PHP and Java.
-• 🔌 Experienced in developing and maintaining e-commerce integrations.
-• 🛒 Worked with platforms like Shopware, Magento, and Shopify.
-• ⚡️ Interested in performance optimization, system reliability, and scalable architectures.
-• 🔍 I enjoy investigating complex technical challenges and finding practical solutions.
-• 🌱 Always curious about learning new technologies and improving my engineering skills.
-🛠️ Tech Stack
+<ul>
+  <li>💻 Mainly working with PHP and Java.</li>
+  <li>🔌 Experienced in developing and maintaining e-commerce integrations.</li>
+  <li>🛒 Worked with platforms like Shopware, Magento, and Shopify.</li>
+  <li>⚡️ Interested in performance optimization, system reliability, and scalable architectures.</li>
+  <li>🔍 I enjoy investigating complex technical challenges and finding practical solutions.</li>
+  <li>🌱 Always curious about learning new technologies and improving my engineering skills.</li>
+</ul>
+
+## 🛠️ Tech Stack
 Languages
 <p>
-  <img src=“https://skillicons.dev/icons?i=php,java,js” />
+  <img src="https://skillicons.dev/icons?i=php,java,go,js"/>
 </p>
 Databases & Technologies
 <p>
-  <img src=“https://skillicons.dev/icons?i=mongodb,mysql,graphql,symfony” />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,graphql,symfony"/>
 </p>
 Tools & Platforms
 <p>
-  <img src=“https://skillicons.dev/icons?i=git,github,docker,linux,githubactions” />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions"/>
 </p>
-🚀 Areas of Interest
-• Backend Development
-• API Design & Integration
-• E-commerce Platforms
-• Performance Optimization
-• Distributed Systems
-• Background Processing & Asynchronous Jobs
-• Software Architecture
-📫 Let’s Connect
+
+## 🚀 Areas of Interest
+* Backend Development
+* API Design & Integration
+* E-commerce Platforms
+* Performance Optimization
+* Distributed Systems
+* Background Processing & Asynchronous Jobs
+* Software Architecture
+
+## 📫 Let’s Connect
 I’m always interested in connecting with other developers, exchanging ideas, and exploring interesting technical challenges.
 
 <!--## Hi there 👋
